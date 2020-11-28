@@ -2,6 +2,6 @@
 
 How to call:
 
-python uploadNeem.py <PATH TO NEEM>
+python uploadNeem.py \<PATH TO NEEM/>
 
 
